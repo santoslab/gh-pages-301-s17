@@ -1,0 +1,245 @@
+.. _schedule:
+
+Schedule
+########
+
+.. raw:: html
+
+   <h3>CIS 301: Logical Foundations of Programming, Spring 2017</h3>
+
+.. include:: def.rst
+
+----
+
+**Lecture:** T U 11:05am - 12:20pm, |DUE1073|
+
+**Links:**
+
+* `Slides <https://drive.google.com/open?id=0B3opDhlww1AXejdaRFBSUXJVTEE>`__
+
+* Examples:
+
+  * `Truth Table <https://github.com/sireum/v3-logika-examples/tree/release/src/truthtable>`__
+
+  * `Propositional Logic <https://github.com/sireum/v3-logika-examples/tree/release/src/propositional>`__
+
+  * `Predicate Logic <https://github.com/sireum/v3-logika-examples/tree/release/src/predicate>`__
+
+  * `Program Logic <https://github.com/sireum/v3-logika-examples/tree/release/src/programming>`__
+
+  * `More ... <https://github.com/ksu-cis-301/301f16/tree/master/examples>`__
+
+* `Exercises <https://github.com/ksu-cis-301/301f16/blob/master/exercises/>`__
+
+* `FYTDs <https://github.com/ksu-cis-301/301f16/blob/master/fytds>`__
+
+* `Study Guides <https://drive.google.com/drive/folders/0B3opDhlww1AXM3kyUk1xb3pCd0E>`__
+
+----
+
+.. list-table::
+   :widths: 20 30 50
+   :header-rows: 1
+
+   * - Week. Day: Date
+     - Lecture
+     - Remarks
+   * - 1. T: Jan 17
+     - * `Course Administration <https://drive.google.com/open?id=0B3opDhlww1AXNjl3cTdZVTNIY00>`__
+       * `Introduction: Why Bother? <https://drive.google.com/open?id=0B3opDhlww1AXaFA2dDRidEVTZFk>`__
+         [`study guide <https://drive.google.com/file/d/0B3opDhlww1AXZVBFLXNtdXN2WXM/>`__]
+     - * Reading: `Introduction: Why Bother? <http://logika.sireum.org/dschmidt/01-introduction/>`__
+       * Tool: Install `Logika <http://logika.sireum.org>`__ `CLI <http://logika.sireum.org/doc/01-getting-started/index.html#using-sireum-v3-binary-distribution>`__
+         and `IntelliJ plugin <http://logika.sireum.org/doc/02-live/index.html#live-install>`__
+         (see installation videos for the
+         `CLI <http://files.sireum.org/media/logika-cli.mp4>`_
+         and the
+         `plugin <http://files.sireum.org/media/logika-ive.mp4>`__)
+   * - 1. U: Jan 19
+     - * `Circuits and Truth Tables <https://drive.google.com/file/d/0B3opDhlww1AXVmNEMkNETEVZb1k>`__
+         [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/truthtable>`__,
+         `exercise <https://github.com/ksu-cis-301/301f16/blob/master/exercises/introduction>`__,
+         `study guide <https://drive.google.com/open?id=0B3opDhlww1AXSzNmalBJRGl2S3c>`__]
+     - * Reading: `Circuits and Truth Tables <http://logika.sireum.org/dschmidt/02-circuits-truth-tables/>`__
+       * HW 1 Assigned
+   * - 2. T: Jan 24
+     - * `Circuits and Truth Tables <https://drive.google.com/file/d/0B3opDhlww1AXVmNEMkNETEVZb1k>`__
+         [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/truthtable>`__,
+         `exercise <https://github.com/ksu-cis-301/301f16/blob/master/exercises/introduction>`__,
+         `study guide <https://drive.google.com/open?id=0B3opDhlww1AXSzNmalBJRGl2S3c>`__]
+     - * Reading: `Circuits and Truth Tables <http://logika.sireum.org/dschmidt/02-circuits-truth-tables/>`__
+       * Reading (from `Logic in Action <http://www.logicinaction.org>`__):
+
+         * `Chapter 2. Propositional Logic <https://drive.google.com/open?id=0B3opDhlww1AXMlR2VTVGekx3Y1k>`__
+         * Optional: `Chapter 3. Syllogistic Reasoning <https://drive.google.com/open?id=0B3opDhlww1AXRmhKSlNEWTVhQUk>`__
+   * - 2. U: Jan 26
+     - * `Introduction to Propositional Logic <https://drive.google.com/open?id=0B3opDhlww1AXMXNBRzBzS2VaX1k>`__
+         [`example <https://github.com/sireum/v3-logika-examples/tree/release/src/truthtable>`__,
+         `study guide <https://drive.google.com/open?id=0B3opDhlww1AXUEVSVFJHVzJMWW8>`__]
+     - * Reading (from `Logic in Action <http://www.logicinaction.org>`__):
+
+         * `Chapter 2. Propositional Logic <https://drive.google.com/open?id=0B3opDhlww1AXMlR2VTVGekx3Y1k>`__
+         * Optional: `Chapter 3. Syllogistic Reasoning <https://drive.google.com/open?id=0B3opDhlww1AXRmhKSlNEWTVhQUk>`__
+   * - 3. T: Jan 31
+     - * `English Language to Propositional Logic <https://drive.google.com/open?id=0B3opDhlww1AXNk1TRld1a05LOGM>`__
+         [`exercise <https://github.com/ksu-cis-301/301f16/blob/master/exercises/natural-deduction/NatDed-01X-English-to-Propositional-Logic.pdf>`__]
+     - * Reading:
+
+         * `Translating Between English and Propositional Logic (Scott Martin, Ohio State) <https://drive.google.com/open?id=0B3opDhlww1AXdGctLWxaYXFNSmM>`__;
+         * `Logic and Critical Reasoning (Chapter 6 only) <https://drive.google.com/open?id=0B3opDhlww1AXUFdsa2luRm40RFk>`__
+   * - 3. U: Feb 2
+     - * `Automatic Reasoning of Propositional Logic <https://drive.google.com/open?id=0B3opDhlww1AXdTdlbTc0WF9MMlU>`__
+         [`example <https://github.com/ksu-cis-301/301f16/blob/master/examples/NatDed-02-Automatic-Reasoning-for-Propositional-Logic.smt>`__,
+         `exercise <https://github.com/ksu-cis-301/301f16/blob/master/exercises/natural-deduction/NatDed-02X-Automatic-Reasoning-for-Propositional-Logic.smt>`__]
+     - * Reading: `Z3's Guide <http://rise4fun.com/Z3/tutorial/guide>`__
+         (up to Section 3 on Propositional Logic)
+   * - 4. T: Feb 7
+     - * `Introduction to Natural Deduction <https://drive.google.com/open?id=0B3opDhlww1AXTmJjaWhkSlBDWjg>`__
+       * `Natural Deduction -- And <https://drive.google.com/open?id=0B3opDhlww1AXVHpiRjlOWmhZQzg>`__
+         [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/propositional/and>`__]
+     - * Reading: `Applications of Propositional Logic to Program Proving <http://logika.sireum.org/dschmidt/07-propositional-logic/>`__ (up to Section 7.3)
+   * - 4. U: Feb 9
+     - * `Natural Deduction -- And <https://drive.google.com/open?id=0B3opDhlww1AXVHpiRjlOWmhZQzg>`__
+         [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/propositional/and>`__,
+         `FYTD <https://github.com/ksu-cis-301/301f16/blob/master/fytds/natural-deduction/NatDed-04Y-Natural-Deduction--And.logika>`__]
+       * `Natural Deduction -- Or <https://drive.google.com/open?id=0B3opDhlww1AXUzRpd3B2ai1oRDA>`__
+         [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/propositional/or>`__]
+     - * Reading: `Applications of Propositional Logic to Program Proving (Section 7.4) <http://logika.sireum.org/dschmidt/07-propositional-logic/index.html#or-introduction-and-or-elimination>`__
+   * - 5. T: Feb 14
+     - * `Natural Deduction -- Implies <https://drive.google.com/open?id=0B3opDhlww1AXWU1KV3R2NEVGdmc>`__
+         [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/propositional/implies>`__]
+       * `Natural Deduction -- Negation <https://drive.google.com/open?id=0B3opDhlww1AXWXhjdmZUZTBydlU>`__
+         [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/propositional/negation>`__]
+     - * Reading:
+
+         * `Applications of Propositional Logic to Program Proving (Section 7.5) <http://logika.sireum.org/dschmidt/07-propositional-logic/index.html#implies-introduction-and-implies-elimination>`__
+         * `Applications of Propositional Logic to Program Proving (Section 7.6 - 7.7) <http://logika.sireum.org/dschmidt/07-propositional-logic/index.html#negation>`__
+   * - 5. U: Feb 16
+     - * `Natural Deduction -- Negation <https://drive.google.com/open?id=0B3opDhlww1AXWXhjdmZUZTBydlU>`__
+         [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/propositional/negation>`__,
+         `FYTD #4 <https://github.com/ksu-cis-301/301f16/blob/master/fytds/natural-deduction/NatDed-07Y-Natural-Deduction-Negation-4.logika>`__,
+         `FYTD #5 <https://github.com/ksu-cis-301/301f16/blob/master/fytds/natural-deduction/NatDed-07Y-Natural-Deduction-Negation-5.logika>`__]
+     - * Reading: `Applications of Propositional Logic to Program Proving (Section 7.6 - 7.7) <http://logika.sireum.org/dschmidt/07-propositional-logic/index.html#negation>`__
+   * - 6. T: Feb 21
+     - * `Curry-Howard Isomorphism <https://drive.google.com/open?id=0B3opDhlww1AXaXJGYnVKRXJWTnM>`__
+         [`examples <https://github.com/sireum/v3-logika-examples/blob/release/src/propositional/curry-howard-isomorphism.sc>`__]
+     - * Optional Background Reading: `Classical vs. Constructive Logic <https://drive.google.com/open?id=0B2v9RmdjXXbUaUQzSlBvX29BWW8>`__
+       * `Exercises <https://github.com/ksu-cis-301/301f16/tree/master/exercises/natural-deduction>`__
+       * **Instructor Travel (Committee meeting in France)**
+   * - 6. U: Feb 23
+     - * Review for Exam 1
+     - * **Instructor Travel (Department of Homeland Security research meeting)**
+   * - 7. T: Feb 28
+     - * `Exam 1 <https://github.com/ksu-cis-301/301f16/tree/master/exams/exam1>`__
+         [`references <https://drive.google.com/open?id=0B3opDhlww1AXT0pwcThaNVR5VXc>`__,
+         `study guides <https://drive.google.com/drive/folders/0B3opDhlww1AXM3kyUk1xb3pCd0E>`__]
+     -
+   * - 7. U: Mar 2
+     - * Exam 1 Discussion
+     -
+   * - 8. T: Mar 7
+     - * `Quantifications by Example <https://github.com/ksu-cis-301/301f16/blob/master/examples/quantifications.sc>`__
+         [`java <https://github.com/ksu-cis-301/301f16/blob/master/examples/Quantifications.java>`__]
+       * `Introduction to Predicate Logic <https://drive.google.com/open?id=0B3opDhlww1AXcGJFelJ2YXFZeUU>`__
+         [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/predicate>`__,
+         `Z3 examples <https://github.com/ksu-cis-301/301f16/tree/master/examples/NatDed-09-Intro-to-Predicate-Logic>`__,
+         `FYTD #1 <https://github.com/ksu-cis-301/301f16/blob/master/fytds/natural-deduction/NatDed-09Y-Intro-to-Predicate-Logic-1.logika>`__,
+         `FYTD #2 <https://github.com/ksu-cis-301/301f16/blob/master/fytds/natural-deduction/NatDed-09Y-Intro-to-Predicate-Logic-2.logika>`__,
+         `FYTD #3 <https://github.com/ksu-cis-301/301f16/blob/master/fytds/natural-deduction/NatDed-09Y-Intro-to-Predicate-Logic-3.logika>`__]
+     - * Reading: `The Predicate-Logic Quantifiers <http://logika.sireum.org/dschmidt/08-predicate-logic/index.html>`__ (up to Section 8.2)
+   * - 8. U: Mar 9
+     - * `Introduction to Predicate Logic <https://drive.google.com/open?id=0B3opDhlww1AXcGJFelJ2YXFZeUU>`__
+         [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/predicate>`__,
+         `Z3 examples <https://github.com/ksu-cis-301/301f16/tree/master/examples/NatDed-09-Intro-to-Predicate-Logic>`__,
+         `FYTD #1 <https://github.com/ksu-cis-301/301f16/blob/master/fytds/natural-deduction/NatDed-09Y-Intro-to-Predicate-Logic-1.logika>`__,
+         `FYTD #2 <https://github.com/ksu-cis-301/301f16/blob/master/fytds/natural-deduction/NatDed-09Y-Intro-to-Predicate-Logic-2.logika>`__,
+         `FYTD #3 <https://github.com/ksu-cis-301/301f16/blob/master/fytds/natural-deduction/NatDed-09Y-Intro-to-Predicate-Logic-3.logika>`__]
+     - * Reading: `The Predicate-Logic Quantifiers <http://logika.sireum.org/dschmidt/08-predicate-logic/index.html>`__ (up to Section 8.2)
+   * - 9. T: Mar 14
+     - * `Algebra <https://drive.google.com/open?id=0B3opDhlww1AXZ2hvM2FubElmM0k>`__
+         [`Z3 examples <https://github.com/ksu-cis-301/301f16/blob/master/examples/ProgLogic-00-Algebra.smt>`__]
+       * `Programming Logic for Assignment <https://drive.google.com/open?id=0B3opDhlww1AXV3A0ZWlIZUd4aFE>`__
+         [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/programming/>`__]
+     - * Reading: `Circuits that Compute on Numbers: Algebra <http://logika.sireum.org/dschmidt/03-algebra/index.html>`__
+   * - 9. U: Mar 16
+     - * `Programming Logic for Assignment <https://drive.google.com/open?id=0B3opDhlww1AXV3A0ZWlIZUd4aFE>`__
+         [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/programming/manual/>`__]
+     - * Reading: `Programming Logic for Assignments and Conditionals <http://logika.sireum.org/dschmidt/04-programming-logic/index.html>`__ (up to Section 4.1)
+   * - A. **Spring Break**
+     -
+     -
+   * - 10. T: Mar 28
+     - * `Programming Logic for Assignment <https://drive.google.com/open?id=0B3opDhlww1AXV3A0ZWlIZUd4aFE>`__
+         [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/programming/manual/>`__]
+       * `Programming Logic for Conditionals and Loops <https://drive.google.com/open?id=0B3opDhlww1AXSWdMWHFWUFJ6b1E>`__
+         [`conditional #1 <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/manual/conditional-1.logika>`__,
+         `conditional #2 <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/manual/conditional-2.logika>`__]
+     - * Reading: `Programming Logic for Assignments and Conditionals <http://logika.sireum.org/dschmidt/04-programming-logic/index.html#conditional-commands>`__ (Section 4.2)
+       * **Instructor Travel (Research meeting with Draeger in Germany)**
+   * - 10. U: Mar 30
+     - * `Programming Logic for Conditionals and Loops <https://drive.google.com/open?id=0B3opDhlww1AXSWdMWHFWUFJ6b1E>`__
+         [`loop #1 <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/manual/loop-1.logika>`__,
+         `loop #2 <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/manual/loop-2.logika>`__]
+     - * Reading: `Loop, Invariants, Induction <http://logika.sireum.org/dschmidt/06-loops-invariants-induction/index.html>`__
+   * - 11. T: Apr 4
+     - * `Programming Logic for Conditionals and Loops <https://drive.google.com/open?id=0B3opDhlww1AXSWdMWHFWUFJ6b1E>`__
+         [`loop invariants recipe <https://drive.google.com/open?id=0B3opDhlww1AXbmRScXNtODlJa2s>`__,
+         `auto <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/auto/>`__,
+         `symexe <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/>`__]
+       * `Sequences <https://drive.google.com/open?id=0B3opDhlww1AXdkRHRnBjd3JMY0U>`__
+         [`#1 <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/sequence-1.logika>`__,
+         `#2 <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/sequence-1.logika>`__,
+         `#3 (manual) <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/manual/sequence-3.logika>`__,
+         `#3 (auto) <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/auto/sequence-3.logika>`__,
+         `#3 (symexe) <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/sequence-3.logika>`__,
+         `#4 <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/sequence-4.logika>`__]
+     -
+   * - 11. U: Apr 6
+     - * Review for Exam 2
+     -
+   * - 12. T: Apr 11
+     - * `Exam 2 <https://github.com/ksu-cis-301/301f16/tree/master/exams/exam2>`__
+         [`references <https://drive.google.com/open?id=0B3opDhlww1AXUl9KZE0tR2hWQkk>`__,
+         `study guides <https://drive.google.com/drive/folders/0B3opDhlww1AXM3kyUk1xb3pCd0E>`__]
+     -
+   * - 12. U: Apr 13
+     - * `Functions and Procedures <https://drive.google.com/open?id=0B3opDhlww1AXbkVOWFhYUXVRVDg>`__
+         [`examples <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/>`__]
+     - * Reading: `Functions and Procedures <http://logika.sireum.org/dschmidt/05-functions-procedures/index.html>`__
+   * - 13. T: Apr 18
+     - * `Functions and Procedures <https://drive.google.com/open?id=0B3opDhlww1AXbkVOWFhYUXVRVDg>`__
+         [`examples <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/>`__]
+     - * Reading: `Functions and Procedures <http://logika.sireum.org/dschmidt/05-functions-procedures/index.html>`__
+   * - 13. U: Apr 20
+     - * `Functions and Procedures <https://drive.google.com/open?id=0B3opDhlww1AXbkVOWFhYUXVRVDg>`__
+         [`examples <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/>`__,
+         `java <https://github.com/ksu-cis-301/301f16/blob/master/examples/Bank.java>`__]
+     - * Reading: `Functions and Procedures <http://logika.sireum.org/dschmidt/05-functions-procedures/index.html>`__
+   * - 14. T: Apr 25
+     - * `Recursion <https://drive.google.com/open?id=0B3opDhlww1AXUUE5NnpUWHhtTTQ>`__
+         [examples: `#1 <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/manual/recursion-1.logika>`__,
+         `#2 <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/manual/recursion-2.logika>`__,
+         `#3 <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/recursion-3.logika>`__,
+         `#4 <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/recursion-4.logika>`__]
+     -
+   * - 14. U: Apr 27
+     - * `Termination <https://drive.google.com/open?id=0B3opDhlww1AXU3J0LVl3LUl2OHM>`__
+         [`examples <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/>`__,
+         Collatz: `Logika <https://github.com/ksu-cis-301/301f16/blob/master/examples/collatz.sc>`__,
+         `Java <https://github.com/ksu-cis-301/301f16/blob/master/examples/Collatz.java>`__]
+     -
+   * - 15. T: May 2
+     - * Closing Remarks
+       * Review for Final Exam
+     -
+   * - 15. U: May 4
+     - * `Programming Logic in Real Life <https://drive.google.com/open?id=0B3opDhlww1AXdHhlVFZ1M2lVaFU>`__
+       * `Evidence-based Trust of SymExe-based Verification <https://k-state.instructure.com/courses/24981/files/folder/Videos?preview=3218115>`__
+     -
+   * - 16. F: May 12
+     - * `Final Exam, Time: 9:40am - 11:30am <https://courses.k-state.edu/spring2017/information/xam.html>`__
+         [`references <https://drive.google.com/open?id=0B3opDhlww1AXQTdTSmFFTVJuLVk>`__,
+         `study guides <https://drive.google.com/drive/folders/0B3opDhlww1AXM3kyUk1xb3pCd0E>`__]
+     -
+
+----

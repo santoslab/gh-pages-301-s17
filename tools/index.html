@@ -6,11 +6,11 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     
-    <title>Tools &#8212; CIS 301: Logical Foundations of Programming, Spring 2016</title>
+    <title>Tools &mdash; CIS 301: Logical Foundations of Programming, Spring 2016</title>
     
     <link rel="stylesheet" href="../_static/basic.css" type="text/css" />
     <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
-    <link rel="stylesheet" href="../_static/bootswatch-3.3.6/journal/bootstrap.min.css" type="text/css" />
+    <link rel="stylesheet" href="../_static/bootswatch-3.3.4/journal/bootstrap.min.css" type="text/css" />
     <link rel="stylesheet" href="../_static/bootstrap-sphinx.css" type="text/css" />
     <link rel="stylesheet" href="../_static/cis501.css" type="text/css" />
     
@@ -20,8 +20,7 @@
         VERSION:     '',
         COLLAPSE_INDEX: false,
         FILE_SUFFIX: '.html',
-        HAS_SOURCE:  true,
-        SOURCELINK_SUFFIX: '.txt'
+        HAS_SOURCE:  true
       };
     </script>
     <script type="text/javascript" src="../_static/jquery.js"></script>
@@ -30,10 +29,9 @@
     <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML-full"></script>
     <script type="text/javascript" src="../_static/js/jquery-1.11.0.min.js"></script>
     <script type="text/javascript" src="../_static/js/jquery-fix.js"></script>
-    <script type="text/javascript" src="../_static/bootstrap-3.3.6/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="../_static/bootstrap-3.3.4/js/bootstrap.min.js"></script>
     <script type="text/javascript" src="../_static/bootstrap-sphinx.js"></script>
-    <link rel="index" title="Index" href="../genindex.html" />
-    <link rel="search" title="Search" href="../search.html" />
+    <link rel="top" title="CIS 301: Logical Foundations of Programming, Spring 2016" href="../index.html" />
     <link rel="prev" title="Syllabus" href="../syllabus.html" />
   </head>
   <body role="document">
@@ -103,33 +101,49 @@
 <h3>CIS 301: Logical Foundations of Programming, Spring 2017</h3><hr class="docutils" />
 <div class="section" id="sireum-logika">
 <h2>Sireum Logika<a class="headerlink" href="#sireum-logika" title="Permalink to this headline">¶</a></h2>
-<p>Logika is a program verifier and
+<p><a class="reference external" href="http://logika.sireum.org">Logika</a> is a program verifier and
 a natural deduction proof checker for propositional, predicate, and programming
-logics developed by <a class="reference external" href="http://people.cis.ksu.edu/~robby">Robby</a>.</p>
-<p>See <a class="reference external" href="http://logika.sireum.org/doc/index.html">http://logika.sireum.org/doc/index.html</a> for installation instructions,
-or use one of K-State CS Lab machines (see below).</p>
+logics.  Logika is part of a much larger analysis and verification framework developed by <a class="reference external" href="http://people.cis.ksu.edu/~robby">Robby</a> called Sireum.</p>
+<p><strong>It is crucial that you get set up to use Logika during the first week of class. We will use Logika every week in class, and almost all homework assignments will use it.</strong></p>
+<p>There are two ways of getting set up to use Logika (actually, these methods also provide the entire Sireum framework, but we will only use and talk about the Logika part):</p>
+<ul class="simple">
+<li>[Personal installation] You can install it own your own computer (Personal Installation Quick Start Guide)</li>
+<li>[CS Lab installation (direct use and remote desk top)] You can use it via the K-State CS Lab machines (see below for different OS options, then follow CS Lab Quick Start Guide).</li>
+</ul>
+<p>Logika can be used in a nice IntelliJ-based Integrated Verification Environment (Sireum/Logika IVE) (this is what we recommend for doing
+all your classroom exercises and homework).
+There is also a way to call Logika from the command line using its command line interface (Sireum/Logika CLI).</p>
+<p>In summary,</p>
+<ul class="simple">
+<li>choose your method of use for Logika (personal installation, CS lab direct use, CS lab remote desktop)</li>
+<li>complete the &#8220;quick start&#8221; guides above for installing/configuring and confirming that you can use Logika as needed for class activities.</li>
+</ul>
+<p>If you want to do a custom installation of Logika (e.g., install from sources, install IVE into an existing installation of IntelliJ,
+use the Logika CLI, etc.), you can find how to do that in the complete <a class="reference external" href="http://logika.sireum.org/doc/index.html">Logika Documentation</a></p>
 </div>
 <div class="section" id="z3">
 <h2>Z3<a class="headerlink" href="#z3" title="Permalink to this headline">¶</a></h2>
 <p>Z3 is a high-performance Satisfiability Modulo Theories (SMT) solver being
 developed at the Research in Software Engineering (RiSE) group in Microsoft
 Research.</p>
+<p>We will use Z3 in one lecture early in the course, and then we will refer to it throughout the rest of the course.</p>
+<p>Fortunately, you do not have to install Z3.</p>
+<ul class="simple">
+<li>It is already included in the Sireum Logika installation (in both the Personal installation and CS Lab installations).  It can be found under <code class="docutils literal"><span class="pre">SIREUM_HOME/apps/z3</span></code> (or <code class="docutils literal"><span class="pre">SIREUM_HOME\apps\z3</span></code> in Windows OS).</li>
+<li>There is a web-based <a class="reference external" href="http://rise4fun.com/z3">Online version</a> which is good enough for playing around or doing the Z3-related homework assignment.</li>
+</ul>
+<p>Many interesting analysis, verification, and testing tools (including tools developed by Microsoft) use Z3.  You can find out more about Z3 using the links below:</p>
 <ul class="simple">
 <li><a class="reference external" href="https://github.com/z3prover/z3/wiki">Website</a></li>
 <li><a class="reference external" href="https://channel9.msdn.com/blogs/peli/the-z3-constraint-solver">Introductory video</a></li>
-<li><a class="reference external" href="http://rise4fun.com/z3">Online version</a></li>
-<li>Offline (64-bit) version is included in Sireum Logika (see below);
-it can be found under <code class="docutils literal"><span class="pre">SIREUM_HOME/apps/z3</span></code> (or <code class="docutils literal"><span class="pre">SIREUM_HOME\apps\z3</span></code> in Windows OS)
-once Logika is installed.</li>
 </ul>
 </div>
-<div class="section" id="k-state-cs-laboratories">
-<h2>K-State CS Laboratories<a class="headerlink" href="#k-state-cs-laboratories" title="Permalink to this headline">¶</a></h2>
-<p><a class="reference external" href="http://logika.sireum.org/doc/01-getting-started/">Logika</a>
-and its
-<a class="reference external" href="http://logika.sireum.org/doc/02-live/">IntelliJ-based Integrated Verification Environment (LIVE)</a>
-included in <a class="reference external" href="http://logika.sireum.org/doc/01-getting-started/index.html#sireum-integrated-verification-environment-ive">Sireum IVE</a>
-are installed in all CS labs (e.g., 1114 and 1117 Engineering Hall).</p>
+<div class="section" id="using-logika-via-the-k-state-cs-laboratories">
+<h2>Using Logika via the K-State CS Laboratories<a class="headerlink" href="#using-logika-via-the-k-state-cs-laboratories" title="Permalink to this headline">¶</a></h2>
+<p>Sireum Logika is installed in all CS labs (e.g., 1114 and 1117 Engineering Hall).
+These machines can also be accessed from your personal machine using the Remote Desktop Protocol (RDP)
+(for this method, you need an RDP client on your personal machine, then you point it to the appropriate CS RDP
+servers corresponding to lab machines).</p>
 <div class="section" id="cs-windows-machines">
 <h3>CS Windows Machines<a class="headerlink" href="#cs-windows-machines" title="Permalink to this headline">¶</a></h3>
 <p>In a CS Windows machine (including Windows RDP server <code class="docutils literal"><span class="pre">remote.win.cs.ksu.edu</span></code>),
@@ -154,9 +168,9 @@ Sireum CLI can be launched by issuing the command-line <code class="docutils lit
 <p>The absolute path to <code class="docutils literal"><span class="pre">SIREUM_HOME</span></code> is <code class="docutils literal"><span class="pre">/Applications/Sireum.app/Contents/Resources/sireum-v3</span></code>.</p>
 </div>
 </div>
-<div class="section" id="rdp-clients">
-<h2>RDP Clients<a class="headerlink" href="#rdp-clients" title="Permalink to this headline">¶</a></h2>
-<p>If you plan to use RDP from your personal machine,
+<div class="section" id="installing-remote-desktop-clients-to-access-cs-lab-machines-from-your-personal-machine">
+<h2>Installing Remote Desktop Clients to Access CS Lab Machines from your Personal Machine<a class="headerlink" href="#installing-remote-desktop-clients-to-access-cs-lab-machines-from-your-personal-machine" title="Permalink to this headline">¶</a></h2>
+<p>If you plan to use Remote Desktop Protocol (RDP) to access Logika on CS Lab machines from your personal machine,
 you can download the appropriate free client for your machine OS:</p>
 <ul class="simple">
 <li><a class="reference external" href="https://itunes.apple.com/us/app/microsoft-remote-desktop/id715768417">Microsoft Remote Desktop for macOS</a></li>
@@ -172,8 +186,8 @@ you can download the appropriate free client for your machine OS:</p>
 </li>
 </ul>
 </div>
-<div class="section" id="x2go-clients">
-<h2>X2Go Clients<a class="headerlink" href="#x2go-clients" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="installing-x2go-clients-to-access-cs-linux-lab-machines-from-your-personal-machine">
+<h2>Installing X2Go Clients to Access CS Linux Lab Machines from your Personal Machine<a class="headerlink" href="#installing-x2go-clients-to-access-cs-linux-lab-machines-from-your-personal-machine" title="Permalink to this headline">¶</a></h2>
 <p>X2Go clients for various OSes can be downloaded from: <a class="reference external" href="http://wiki.x2go.org/doku.php/download:start">http://wiki.x2go.org/doku.php/download:start</a></p>
 </div>
 </div>
