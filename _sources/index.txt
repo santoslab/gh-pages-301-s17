@@ -27,13 +27,13 @@ The focus will be on formal logics for reasoning about program behavior.
 **Lectures**                                        Tuesday (T) & Thursday (U), 11:05am - 12:20pm, |DUE1073|
 **Instructor**                                      `John Hatcliff <http://cs.ksu.edu/~hatcliff>`__,
                                                     Office:       2183 |EngHall|,
-                                                    Office Hours: TBA
+                                                    Office Hours: 12:20-1pm Tuesday and Thursday,
 **Teaching Assistant**                              Jason Belt,
                                                     Office:       2206B |EngHall|,
-                                                    Office Hours: TBA
+                                                    Office Hours: 11am-12pm Monday, 3-4pm Wednesday
 **Teaching Assistant**                              Joshua Donnoe,
-                                                    Office:       1119 |EngHall|,
-                                                    Office Hours: TBA
+                                                    Office:       1116 |EngHall|,
+                                                    Office Hours: 12-2pm Friday
 **E-mail**                                          ``help-301@santoslab.org``
                          
 ==================================================  ====================================================================
