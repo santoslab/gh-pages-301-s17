@@ -32,7 +32,7 @@ The focus will be on formal logics for reasoning about program behavior.
                                                     Office:       2206B |EngHall|,
                                                     Office Hours: 11am-12pm Monday, 3-4pm Wednesday
 **Teaching Assistant**                              Joshua Donnoe,
-                                                    Office:       1116 |EngHall|,
+                                                    Office:       1117 |EngHall|,
                                                     Office Hours: 12-2pm Friday
 **E-mail**                                          ``help-301@santoslab.org``
                          
