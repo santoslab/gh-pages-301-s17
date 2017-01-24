@@ -57,16 +57,15 @@ Schedule
          and the
          `plugin <http://files.sireum.org/media/logika-ive.mp4>`__)
    * - 1. U: Jan 19
-     - * `Circuits and Truth Tables <https://drive.google.com/file/d/0B3opDhlww1AXVmNEMkNETEVZb1k>`__
-         [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/truthtable>`__,
-         `exercise <https://github.com/ksu-cis-301/301f16/blob/master/exercises/introduction>`__,
-         `study guide <https://drive.google.com/open?id=0B3opDhlww1AXSzNmalBJRGl2S3c>`__]
+     - * `Circuits and Truth Tables <https://drive.google.com/open?id=0B2v9RmdjXXbUOWVkSlJYdGhFTlk>`__
+         [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/truthtable>`__, `FYTD #1 solution <https://drive.google.com/open?id=0B2v9RmdjXXbUVUdQWXVMZThSalk>`__, `FYTD #2 solution <https://drive.google.com/open?id=0B2v9RmdjXXbUNTltZ3UtSkp2QkU>`__, `study guide <https://drive.google.com/open?id=0B3opDhlww1AXSzNmalBJRGl2S3c>`__]
      - * Reading: `Circuits and Truth Tables <http://logika.sireum.org/dschmidt/02-circuits-truth-tables/>`__
        * HW 1 Assigned
    * - 2. T: Jan 24
      - * `Circuits and Truth Tables <https://drive.google.com/file/d/0B3opDhlww1AXVmNEMkNETEVZb1k>`__
          [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/truthtable>`__,
-         `exercise <https://github.com/ksu-cis-301/301f16/blob/master/exercises/introduction>`__,
+         `FYTD #1 solution <https://drive.google.com/open?id=0B2v9RmdjXXbUVUdQWXVMZThSalk>`__,
+         `FYTD #2 solution <https://drive.google.com/open?id=0B2v9RmdjXXbUNTltZ3UtSkp2QkU>`__,
          `study guide <https://drive.google.com/open?id=0B3opDhlww1AXSzNmalBJRGl2S3c>`__]
      - * Reading: `Circuits and Truth Tables <http://logika.sireum.org/dschmidt/02-circuits-truth-tables/>`__
        * Reading (from `Logic in Action <http://www.logicinaction.org>`__):
