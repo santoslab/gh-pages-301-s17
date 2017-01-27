@@ -78,7 +78,7 @@ Instructor
 
 `John Hatcliff <http://cs.k-state.edu/~hatcliff>`__,
 Office:       2160 |EngHall|,
-Office Hours: TBA
+Office Hours: 12:20-1pm Tuesday and Thursday
 
 
 Graduate Teaching Assistants
@@ -86,11 +86,11 @@ Graduate Teaching Assistants
 
 * Jason Belt,
   Office:       2206B |EngHall|,
-  Office Hours: TBA
+  Office Hours: 11am-12pm Monday, 3-4pm Wednesday
 
 * Joshua Donnoe,
   Office:       1119 |EngHall|,
-  Office Hours: TBA
+  Office Hours: 12-2pm Friday
 
 
 Grading
