@@ -74,7 +74,9 @@ Schedule
          * Optional: `Chapter 3. Syllogistic Reasoning <https://drive.google.com/open?id=0B3opDhlww1AXRmhKSlNEWTVhQUk>`__
    * - 2. U: Jan 26
      - * `Introduction to Propositional Logic <https://drive.google.com/open?id=0B3opDhlww1AXMXNBRzBzS2VaX1k>`__
-         [`example <https://github.com/sireum/v3-logika-examples/tree/release/src/truthtable>`__,
+         [`FYTD #1a solution <https://drive.google.com/open?id=0B2v9RmdjXXbUSUtQTGtiMXdRUW8>`__,
+         `FYTD #1b solution <https://drive.google.com/open?id=0B2v9RmdjXXbUVjBlbDdGVWg5Tm8>`__,
+         `example <https://github.com/sireum/v3-logika-examples/tree/release/src/truthtable>`__,
          `study guide <https://drive.google.com/open?id=0B3opDhlww1AXUEVSVFJHVzJMWW8>`__]
      - * Reading (from `Logic in Action <http://www.logicinaction.org>`__):
 
