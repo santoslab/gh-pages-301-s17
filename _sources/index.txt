@@ -5,6 +5,7 @@
    schedule
    syllabus
    tools/index
+   polling
 
 Home
 ####
@@ -49,3 +50,5 @@ The focus will be on formal logics for reasoning about program behavior.
 * `Course Notes <http://logika.sireum.org/dschmidt>`__
 
 * :ref:`tools`
+
+* :ref:`polling`

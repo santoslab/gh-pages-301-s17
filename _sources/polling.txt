@@ -1,0 +1,10 @@
+.. raw:: html
+
+   <h3>CIS 301: Logical Foundations of Programming, Spring 2017</h3>
+
+.. _polling:
+
+Polling
+#######
+
+Explanation of how we will use polling in 301 will be added soon.

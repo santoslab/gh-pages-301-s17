@@ -82,10 +82,10 @@ Schedule
          * Optional: `Chapter 3. Syllogistic Reasoning <https://drive.google.com/open?id=0B3opDhlww1AXRmhKSlNEWTVhQUk>`__
    * - 3. T: Jan 31
      - * `English Language to Propositional Logic <https://drive.google.com/open?id=0B3opDhlww1AXNk1TRld1a05LOGM>`__
-         [`exercise <https://github.com/ksu-cis-301/301f16/blob/master/exercises/natural-deduction/NatDed-01X-English-to-Propositional-Logic.pdf>`__]
+         [`FYTD #1 <https://drive.google.com/open?id=0B2v9RmdjXXbUdjRzV0ZLUUhIcXM>`__]
      - * Reading:
 
-         * `Translating Between English and Propositional Logic (Scott Martin, Ohio State) <https://drive.google.com/open?id=0B3opDhlww1AXdGctLWxaYXFNSmM>`__;
+         * `Translating Between English and Propositional Logic (Scott Martin, Ohio State) <https://drive.google.com/open?id=0B2v9RmdjXXbUUUVYNFAxWXBUQ2s>`__;
          * `Logic and Critical Reasoning (Chapter 6 only) <https://drive.google.com/open?id=0B3opDhlww1AXUFdsa2luRm40RFk>`__
    * - 3. U: Feb 2
      - * `Automatic Reasoning of Propositional Logic <https://drive.google.com/open?id=0B3opDhlww1AXdTdlbTc0WF9MMlU>`__
