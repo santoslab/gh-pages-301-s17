@@ -84,14 +84,19 @@ Schedule
          * Optional: `Chapter 3. Syllogistic Reasoning <https://drive.google.com/open?id=0B3opDhlww1AXRmhKSlNEWTVhQUk>`__
    * - 3. T: Jan 31
      - * `English Language to Propositional Logic <https://drive.google.com/open?id=0B3opDhlww1AXNk1TRld1a05LOGM>`__
-         [`FYTD #1 <https://drive.google.com/open?id=0B2v9RmdjXXbUdjRzV0ZLUUhIcXM>`__]
+         [`FYTD #1 solution <https://drive.google.com/open?id=0B2v9RmdjXXbUdjRzV0ZLUUhIcXM>`__]
      - * Reading:
 
          * `Translating Between English and Propositional Logic (Scott Martin, Ohio State) <https://drive.google.com/open?id=0B2v9RmdjXXbUUUVYNFAxWXBUQ2s>`__;
          * `Logic and Critical Reasoning (Chapter 6 only) <https://drive.google.com/open?id=0B3opDhlww1AXUFdsa2luRm40RFk>`__
    * - 3. U: Feb 2
-     - * `Automatic Reasoning of Propositional Logic <https://drive.google.com/open?id=0B3opDhlww1AXdTdlbTc0WF9MMlU>`__
+     - * `Automatic Reasoning for Propositional Logic <https://drive.google.com/open?id=0B3opDhlww1AXdTdlbTc0WF9MMlU>`__
          [`example <https://github.com/ksu-cis-301/301f16/blob/master/examples/NatDed-02-Automatic-Reasoning-for-Propositional-Logic.smt>`__,
+         `FYTD #1 solution <https://drive.google.com/open?id=0B2v9RmdjXXbUN1J4a3hrVUF0VnM>`__,
+         `FYTD #2 solution <https://drive.google.com/open?id=0B2v9RmdjXXbUem9Cdnh4ZzNVb2c>`__,
+         `FYTD #3 solution <https://drive.google.com/open?id=0B2v9RmdjXXbUblZBTDZIQm1YcGM>`__,
+         `FYTD #4 solution <https://drive.google.com/open?id=0B2v9RmdjXXbUb0tkTXJaSzJaNE0>`__,
+         `FYTD #5 solution <https://drive.google.com/open?id=0B2v9RmdjXXbUOC1SZTNYYllSQm8>`__,
          `exercise <https://github.com/ksu-cis-301/301f16/blob/master/exercises/natural-deduction/NatDed-02X-Automatic-Reasoning-for-Propositional-Logic.smt>`__]
      - * Reading: `Z3's Guide <http://rise4fun.com/Z3/tutorial/guide>`__
          (up to Section 3 on Propositional Logic)
