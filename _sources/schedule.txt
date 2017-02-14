@@ -103,18 +103,24 @@ Schedule
    * - 4. T: Feb 7
      - * `Introduction to Natural Deduction <https://drive.google.com/open?id=0B3opDhlww1AXTmJjaWhkSlBDWjg>`__
        * `Natural Deduction -- And <https://drive.google.com/open?id=0B3opDhlww1AXVHpiRjlOWmhZQzg>`__
-         [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/propositional/and>`__]
+         [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/propositional/and>`__,
+         `FYTD #1 solution <https://drive.google.com/open?id=0B2v9RmdjXXbUaUp1dHZQdWVsVDg>`__]
      - * Reading: `Applications of Propositional Logic to Program Proving <http://logika.sireum.org/dschmidt/07-propositional-logic/>`__ (up to Section 7.3)
    * - 4. U: Feb 9
      - * `Natural Deduction -- And <https://drive.google.com/open?id=0B3opDhlww1AXVHpiRjlOWmhZQzg>`__
          [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/propositional/and>`__,
-         `FYTD <https://github.com/ksu-cis-301/301f16/blob/master/fytds/natural-deduction/NatDed-04Y-Natural-Deduction--And.logika>`__]
+         `FYTD #1 solution <https://drive.google.com/open?id=0B2v9RmdjXXbUaUp1dHZQdWVsVDg>`__]
        * `Natural Deduction -- Or <https://drive.google.com/open?id=0B3opDhlww1AXUzRpd3B2ai1oRDA>`__
-         [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/propositional/or>`__]
+         [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/propositional/or>`__,
+         `FYTD #1 solution <https://drive.google.com/open?id=0B2v9RmdjXXbUZW1SbE81MTNfOEk>`__,
+         `FYTD #2 solution <https://drive.google.com/open?id=0B2v9RmdjXXbUMmVJOGpxaXc3ckk>`__,
+         `FYTD #3 solution <https://drive.google.com/open?id=0B2v9RmdjXXbUSzFOZGxIbnY2Qnc>`__]
      - * Reading: `Applications of Propositional Logic to Program Proving (Section 7.4) <http://logika.sireum.org/dschmidt/07-propositional-logic/index.html#or-introduction-and-or-elimination>`__
    * - 5. T: Feb 14
      - * `Natural Deduction -- Implies <https://drive.google.com/open?id=0B3opDhlww1AXWU1KV3R2NEVGdmc>`__
-         [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/propositional/implies>`__]
+         [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/propositional/implies>`__,
+         `FYTD #1 solution <https://drive.google.com/open?id=0B2v9RmdjXXbUcDVtY205RHVWUEk>`__,
+         `FYTD #2 solution <https://drive.google.com/open?id=0B2v9RmdjXXbUNnpCbi1hMkpqaGs>`__]
        * `Natural Deduction -- Negation <https://drive.google.com/open?id=0B3opDhlww1AXWXhjdmZUZTBydlU>`__
          [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/propositional/negation>`__]
      - * Reading:
