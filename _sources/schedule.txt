@@ -140,17 +140,6 @@ Schedule
        * `Exercises <https://github.com/ksu-cis-301/301f16/tree/master/exercises/natural-deduction>`__
        * **Instructor Travel (Committee meeting in France)**
    * - 6. U: Feb 23
-     - * Review for Exam 1
-     - * **Instructor Travel (Department of Homeland Security research meeting)**
-   * - 7. T: Feb 28
-     - * `Exam 1 <https://github.com/ksu-cis-301/301f16/tree/master/exams/exam1>`__
-         [`references <https://drive.google.com/open?id=0B3opDhlww1AXT0pwcThaNVR5VXc>`__,
-         `study guides <https://drive.google.com/drive/folders/0B3opDhlww1AXM3kyUk1xb3pCd0E>`__]
-     -
-   * - 7. U: Mar 2
-     - * Exam 1 Discussion
-     -
-   * - 8. T: Mar 7
      - * `Quantifications by Example <https://github.com/ksu-cis-301/301f16/blob/master/examples/quantifications.sc>`__
          [`java <https://github.com/ksu-cis-301/301f16/blob/master/examples/Quantifications.java>`__]
        * `Introduction to Predicate Logic <https://drive.google.com/open?id=0B3opDhlww1AXcGJFelJ2YXFZeUU>`__
@@ -160,7 +149,8 @@ Schedule
          `FYTD #2 <https://github.com/ksu-cis-301/301f16/blob/master/fytds/natural-deduction/NatDed-09Y-Intro-to-Predicate-Logic-2.logika>`__,
          `FYTD #3 <https://github.com/ksu-cis-301/301f16/blob/master/fytds/natural-deduction/NatDed-09Y-Intro-to-Predicate-Logic-3.logika>`__]
      - * Reading: `The Predicate-Logic Quantifiers <http://logika.sireum.org/dschmidt/08-predicate-logic/index.html>`__ (up to Section 8.2)
-   * - 8. U: Mar 9
+       * **Instructor Travel (Department of Homeland Security research meeting)**
+   * - 7. T: Feb 28
      - * `Introduction to Predicate Logic <https://drive.google.com/open?id=0B3opDhlww1AXcGJFelJ2YXFZeUU>`__
          [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/predicate>`__,
          `Z3 examples <https://github.com/ksu-cis-301/301f16/tree/master/examples/NatDed-09-Intro-to-Predicate-Logic>`__,
@@ -168,12 +158,24 @@ Schedule
          `FYTD #2 <https://github.com/ksu-cis-301/301f16/blob/master/fytds/natural-deduction/NatDed-09Y-Intro-to-Predicate-Logic-2.logika>`__,
          `FYTD #3 <https://github.com/ksu-cis-301/301f16/blob/master/fytds/natural-deduction/NatDed-09Y-Intro-to-Predicate-Logic-3.logika>`__]
      - * Reading: `The Predicate-Logic Quantifiers <http://logika.sireum.org/dschmidt/08-predicate-logic/index.html>`__ (up to Section 8.2)
-   * - 9. T: Mar 14
+   * - 7. U: Mar 2
+     - * Review for Exam 1
+     -
+   * - 8. T: Mar 7
+     - * `Exam 1 <https://github.com/ksu-cis-301/301f16/tree/master/exams/exam1>`__
+         [`references <https://drive.google.com/open?id=0B3opDhlww1AXT0pwcThaNVR5VXc>`__,
+         `study guides <https://drive.google.com/drive/folders/0B3opDhlww1AXM3kyUk1xb3pCd0E>`__]
+     - * Reading: `The Predicate-Logic Quantifiers <http://logika.sireum.org/dschmidt/08-predicate-logic/index.html>`__ (up to Section 8.2)
+   * - 8. U: Mar 9
      - * `Algebra <https://drive.google.com/open?id=0B3opDhlww1AXZ2hvM2FubElmM0k>`__
          [`Z3 examples <https://github.com/ksu-cis-301/301f16/blob/master/examples/ProgLogic-00-Algebra.smt>`__]
-       * `Programming Logic for Assignment <https://drive.google.com/open?id=0B3opDhlww1AXV3A0ZWlIZUd4aFE>`__
-         [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/programming/>`__]
+         `Programming Logic for Assignment <https://drive.google.com/open?id=0B3opDhlww1AXV3A0ZWlIZUd4aFE>`__
+         [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/programming/manual/>`__]
      - * Reading: `Circuits that Compute on Numbers: Algebra <http://logika.sireum.org/dschmidt/03-algebra/index.html>`__
+   * - 9. T: Mar 14
+     - * `Programming Logic for Assignment <https://drive.google.com/open?id=0B3opDhlww1AXV3A0ZWlIZUd4aFE>`__
+         [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/programming/manual/>`__]
+     - * Reading: `Programming Logic for Assignments and Conditionals <http://logika.sireum.org/dschmidt/04-programming-logic/index.html>`__ (up to Section 4.1)
    * - 9. U: Mar 16
      - * `Programming Logic for Assignment <https://drive.google.com/open?id=0B3opDhlww1AXV3A0ZWlIZUd4aFE>`__
          [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/programming/manual/>`__]
