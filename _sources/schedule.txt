@@ -137,8 +137,8 @@ Schedule
          `FYTD #2 <https://drive.google.com/open?id=0B2v9RmdjXXbUZXktTGpDWFlpa1k>`__,
          `FYTD #3-1 <https://drive.google.com/open?id=0B2v9RmdjXXbUV1FRLV9kenRLdEU>`__,
          `FYTD #3-2 <https://drive.google.com/open?id=0B2v9RmdjXXbUN3RRS3hHTF9NWVk>`__,
-         `FYTD #4 <https://github.com/ksu-cis-301/301f16/blob/master/fytds/natural-deduction/NatDed-07Y-Natural-Deduction-Negation-4.logika>`__,
-         `FYTD #5 <https://github.com/ksu-cis-301/301f16/blob/master/fytds/natural-deduction/NatDed-07Y-Natural-Deduction-Negation-5.logika>`__]
+         `FYTD #4 <https://drive.google.com/open?id=0B2v9RmdjXXbUeGhaeW5jeFNCeEU>`__,
+         `FYTD #5 <https://drive.google.com/open?id=0B2v9RmdjXXbUVVI2YzVjWVB3dEE>`__]
      - * Reading: `Applications of Propositional Logic to Program Proving (Section 7.6 - 7.7) <http://logika.sireum.org/dschmidt/07-propositional-logic/index.html#negation>`__
    * - 6. T: Feb 21
      - * `Curry-Howard Isomorphism <https://drive.google.com/open?id=0B3opDhlww1AXaXJGYnVKRXJWTnM>`__
