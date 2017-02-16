@@ -129,7 +129,14 @@ Schedule
          * `Applications of Propositional Logic to Program Proving (Section 7.6 - 7.7) <http://logika.sireum.org/dschmidt/07-propositional-logic/index.html#negation>`__
    * - 5. U: Feb 16
      - * `Natural Deduction -- Negation <https://drive.google.com/open?id=0B3opDhlww1AXWXhjdmZUZTBydlU>`__
-         [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/propositional/negation>`__,
+         [`Lecture video: Bottom Elimination Rule <https://drive.google.com/open?id=0B2v9RmdjXXbUb2tfRDI1YWEyOW8>`__,
+         `Lecture video: Proof-by-Contradiction Rule <https://drive.google.com/open?id=0B2v9RmdjXXbUZXctZE5KVmJWSUE>`__,
+         `examples <https://github.com/sireum/v3-logika-examples/tree/release/src/propositional/negation>`__,
+         `FYTD #1-1 <https://drive.google.com/open?id=0B2v9RmdjXXbUbVRjRDNuSW9WZ0U>`__,
+         `FYTD #1-2 <https://drive.google.com/open?id=0B2v9RmdjXXbUMmlKci1aNkpJdFU>`__,
+         `FYTD #2 <https://drive.google.com/open?id=0B2v9RmdjXXbUZXktTGpDWFlpa1k>`__,
+         `FYTD #3-1 <https://drive.google.com/open?id=0B2v9RmdjXXbUV1FRLV9kenRLdEU>`__,
+         `FYTD #3-2 <https://drive.google.com/open?id=0B2v9RmdjXXbUN3RRS3hHTF9NWVk>`__,
          `FYTD #4 <https://github.com/ksu-cis-301/301f16/blob/master/fytds/natural-deduction/NatDed-07Y-Natural-Deduction-Negation-4.logika>`__,
          `FYTD #5 <https://github.com/ksu-cis-301/301f16/blob/master/fytds/natural-deduction/NatDed-07Y-Natural-Deduction-Negation-5.logika>`__]
      - * Reading: `Applications of Propositional Logic to Program Proving (Section 7.6 - 7.7) <http://logika.sireum.org/dschmidt/07-propositional-logic/index.html#negation>`__
