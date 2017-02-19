@@ -142,15 +142,21 @@ Schedule
      - * Reading: `Applications of Propositional Logic to Program Proving (Section 7.6 - 7.7) <http://logika.sireum.org/dschmidt/07-propositional-logic/index.html#negation>`__
    * - 6. T: Feb 21
      - * `Curry-Howard Isomorphism <https://drive.google.com/open?id=0B3opDhlww1AXaXJGYnVKRXJWTnM>`__
-         [`examples <https://github.com/sireum/v3-logika-examples/blob/release/src/propositional/curry-howard-isomorphism.sc>`__]
+         [`Lecture video <https://drive.google.com/open?id=0B2v9RmdjXXbUYmFaWVB1Z0FjMGc>`__,
+         `examples <https://github.com/sireum/v3-logika-examples/blob/release/src/propositional/curry-howard-isomorphism.sc>`__]
      - * Optional Background Reading: `Classical vs. Constructive Logic <https://drive.google.com/open?id=0B2v9RmdjXXbUaUQzSlBvX29BWW8>`__
        * `Exercises <https://github.com/ksu-cis-301/301f16/tree/master/exercises/natural-deduction>`__
        * **Instructor Travel (Committee meeting in France)**
    * - 6. U: Feb 23
-     - * `Quantifications by Example <https://github.com/ksu-cis-301/301f16/blob/master/examples/quantifications.sc>`__
-         [`java <https://github.com/ksu-cis-301/301f16/blob/master/examples/Quantifications.java>`__]
+     - * Quantifications by Example (no slides for this lecture, only code examples)
+         [`Lecture video <https://drive.google.com/open?id=0B2v9RmdjXXbUSV9jWmdOTzFoU1U>`__,
+         `Scala examples <https://github.com/ksu-cis-301/301f16/blob/master/examples/quantifications.sc>`__,
+         `Java examples <https://github.com/ksu-cis-301/301f16/blob/master/examples/Quantifications.java>`__]
        * `Introduction to Predicate Logic <https://drive.google.com/open?id=0B3opDhlww1AXcGJFelJ2YXFZeUU>`__
-         [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/predicate>`__,
+         [Lecture video: `(part a) <https://drive.google.com/open?id=0B2v9RmdjXXbUX1dxcXJjRUoyeWM>`__,
+         `(part b) <https://drive.google.com/open?id=0B2v9RmdjXXbUQy1PVmdxdTlKaDQ>`__,
+         (part c coming later),
+         `examples <https://github.com/sireum/v3-logika-examples/tree/release/src/predicate>`__,
          `Z3 examples <https://github.com/ksu-cis-301/301f16/tree/master/examples/NatDed-09-Intro-to-Predicate-Logic>`__,
          `FYTD #1 <https://github.com/ksu-cis-301/301f16/blob/master/fytds/natural-deduction/NatDed-09Y-Intro-to-Predicate-Logic-1.logika>`__,
          `FYTD #2 <https://github.com/ksu-cis-301/301f16/blob/master/fytds/natural-deduction/NatDed-09Y-Intro-to-Predicate-Logic-2.logika>`__,
