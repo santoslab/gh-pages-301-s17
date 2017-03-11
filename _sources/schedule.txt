@@ -73,7 +73,7 @@ Schedule
          * `Chapter 2. Propositional Logic <https://drive.google.com/open?id=0B3opDhlww1AXMlR2VTVGekx3Y1k>`__
          * Optional: `Chapter 3. Syllogistic Reasoning <https://drive.google.com/open?id=0B3opDhlww1AXRmhKSlNEWTVhQUk>`__
    * - 2. U: Jan 26
-     - * `Introduction to Propositional Logic <https://drive.google.com/open?id=0B3opDhlww1AXMXNBRzBzS2VaX1k>`__
+     - * `Introduction to Propositional Logic <https://drive.google.com/open?id=0B2v9RmdjXXbUUV9FRGRhdV9JZm8>`__
          [`FYTD #1a solution <https://drive.google.com/open?id=0B2v9RmdjXXbUSUtQTGtiMXdRUW8>`__,
          `FYTD #1b solution <https://drive.google.com/open?id=0B2v9RmdjXXbUVjBlbDdGVWg5Tm8>`__,
          `example <https://github.com/sireum/v3-logika-examples/tree/release/src/truthtable>`__,
@@ -83,14 +83,14 @@ Schedule
          * `Chapter 2. Propositional Logic <https://drive.google.com/open?id=0B3opDhlww1AXMlR2VTVGekx3Y1k>`__
          * Optional: `Chapter 3. Syllogistic Reasoning <https://drive.google.com/open?id=0B3opDhlww1AXRmhKSlNEWTVhQUk>`__
    * - 3. T: Jan 31
-     - * `English Language to Propositional Logic <https://drive.google.com/open?id=0B3opDhlww1AXNk1TRld1a05LOGM>`__
+     - * `English Language to Propositional Logic <https://drive.google.com/open?id=0B2v9RmdjXXbUWEFiSlljSDFwQms>`__
          [`FYTD #1 solution <https://drive.google.com/open?id=0B2v9RmdjXXbUdjRzV0ZLUUhIcXM>`__]
      - * Reading:
 
          * `Translating Between English and Propositional Logic (Scott Martin, Ohio State) <https://drive.google.com/open?id=0B2v9RmdjXXbUUUVYNFAxWXBUQ2s>`__;
          * `Logic and Critical Reasoning (Chapter 6 only) <https://drive.google.com/open?id=0B3opDhlww1AXUFdsa2luRm40RFk>`__
    * - 3. U: Feb 2
-     - * `Automatic Reasoning for Propositional Logic <https://drive.google.com/open?id=0B3opDhlww1AXdTdlbTc0WF9MMlU>`__
+     - * `Automatic Reasoning for Propositional Logic <https://drive.google.com/open?id=0B2v9RmdjXXbUTXZta1dUX0FEZVk>`__
          [`example <https://github.com/ksu-cis-301/301f16/blob/master/examples/NatDed-02-Automatic-Reasoning-for-Propositional-Logic.smt>`__,
          `FYTD #1 solution <https://drive.google.com/open?id=0B2v9RmdjXXbUN1J4a3hrVUF0VnM>`__,
          `FYTD #2 solution <https://drive.google.com/open?id=0B2v9RmdjXXbUem9Cdnh4ZzNVb2c>`__,
@@ -101,34 +101,34 @@ Schedule
      - * Reading: `Z3's Guide <http://rise4fun.com/Z3/tutorial/guide>`__
          (up to Section 3 on Propositional Logic)
    * - 4. T: Feb 7
-     - * `Introduction to Natural Deduction <https://drive.google.com/open?id=0B3opDhlww1AXTmJjaWhkSlBDWjg>`__
+     - * `Introduction to Natural Deduction <https://drive.google.com/open?id=0B2v9RmdjXXbUV2M2N3ZyMUQ1SEE>`__
        * `Natural Deduction -- And <https://drive.google.com/open?id=0B3opDhlww1AXVHpiRjlOWmhZQzg>`__
          [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/propositional/and>`__,
          `FYTD #1 solution <https://drive.google.com/open?id=0B2v9RmdjXXbUaUp1dHZQdWVsVDg>`__]
      - * Reading: `Applications of Propositional Logic to Program Proving <http://logika.sireum.org/dschmidt/07-propositional-logic/>`__ (up to Section 7.3)
    * - 4. U: Feb 9
-     - * `Natural Deduction -- And <https://drive.google.com/open?id=0B3opDhlww1AXVHpiRjlOWmhZQzg>`__
+     - * `Natural Deduction -- And <https://drive.google.com/open?id=0B2v9RmdjXXbUTmNtZDRBb0NSOEU>`__
          [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/propositional/and>`__,
          `FYTD #1 solution <https://drive.google.com/open?id=0B2v9RmdjXXbUaUp1dHZQdWVsVDg>`__]
-       * `Natural Deduction -- Or <https://drive.google.com/open?id=0B3opDhlww1AXUzRpd3B2ai1oRDA>`__
+       * `Natural Deduction -- Or <https://drive.google.com/open?id=0B2v9RmdjXXbUY1FQM2dDZElqZFU>`__
          [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/propositional/or>`__,
          `FYTD #1 solution <https://drive.google.com/open?id=0B2v9RmdjXXbUZW1SbE81MTNfOEk>`__,
          `FYTD #2 solution <https://drive.google.com/open?id=0B2v9RmdjXXbUMmVJOGpxaXc3ckk>`__,
          `FYTD #3 solution <https://drive.google.com/open?id=0B2v9RmdjXXbUSzFOZGxIbnY2Qnc>`__]
      - * Reading: `Applications of Propositional Logic to Program Proving (Section 7.4) <http://logika.sireum.org/dschmidt/07-propositional-logic/index.html#or-introduction-and-or-elimination>`__
    * - 5. T: Feb 14
-     - * `Natural Deduction -- Implies <https://drive.google.com/open?id=0B3opDhlww1AXWU1KV3R2NEVGdmc>`__
+     - * `Natural Deduction -- Implies <https://drive.google.com/open?id=0B2v9RmdjXXbUZ3F4STZoMDA5eE0>`__
          [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/propositional/implies>`__,
          `FYTD #1 solution <https://drive.google.com/open?id=0B2v9RmdjXXbUcDVtY205RHVWUEk>`__,
          `FYTD #2 solution <https://drive.google.com/open?id=0B2v9RmdjXXbUNnpCbi1hMkpqaGs>`__]
-       * `Natural Deduction -- Negation <https://drive.google.com/open?id=0B3opDhlww1AXWXhjdmZUZTBydlU>`__
+       * `Natural Deduction -- Negation <https://drive.google.com/open?id=0B2v9RmdjXXbUX1B1RzJ4dV9jZFE>`__
          [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/propositional/negation>`__]
      - * Reading:
 
          * `Applications of Propositional Logic to Program Proving (Section 7.5) <http://logika.sireum.org/dschmidt/07-propositional-logic/index.html#implies-introduction-and-implies-elimination>`__
          * `Applications of Propositional Logic to Program Proving (Section 7.6 - 7.7) <http://logika.sireum.org/dschmidt/07-propositional-logic/index.html#negation>`__
    * - 5. U: Feb 16
-     - * `Natural Deduction -- Negation <https://drive.google.com/open?id=0B3opDhlww1AXWXhjdmZUZTBydlU>`__
+     - * `Natural Deduction -- Negation <https://drive.google.com/open?id=0B2v9RmdjXXbUX1B1RzJ4dV9jZFE>`__
          [`Lecture video: Bottom Elimination Rule <https://drive.google.com/open?id=0B2v9RmdjXXbUb2tfRDI1YWEyOW8>`__,
          `Lecture video: Proof-by-Contradiction Rule <https://drive.google.com/open?id=0B2v9RmdjXXbUZXctZE5KVmJWSUE>`__,
          `examples <https://github.com/sireum/v3-logika-examples/tree/release/src/propositional/negation>`__,
@@ -141,7 +141,7 @@ Schedule
          `FYTD #5 <https://drive.google.com/open?id=0B2v9RmdjXXbUVVI2YzVjWVB3dEE>`__]
      - * Reading: `Applications of Propositional Logic to Program Proving (Section 7.6 - 7.7) <http://logika.sireum.org/dschmidt/07-propositional-logic/index.html#negation>`__
    * - 6. T: Feb 21
-     - * `Curry-Howard Isomorphism <https://drive.google.com/open?id=0B3opDhlww1AXaXJGYnVKRXJWTnM>`__
+     - * `Curry-Howard Isomorphism <https://drive.google.com/open?id=0B2v9RmdjXXbUWDJoYlExVGNZUDA>`__
          [`Lecture video <https://drive.google.com/open?id=0B2v9RmdjXXbUYmFaWVB1Z0FjMGc>`__,
          `examples <https://github.com/sireum/v3-logika-examples/blob/release/src/propositional/curry-howard-isomorphism.sc>`__]
      - * Optional Background Reading: `Classical vs. Constructive Logic <https://drive.google.com/open?id=0B2v9RmdjXXbUaUQzSlBvX29BWW8>`__
@@ -152,7 +152,7 @@ Schedule
          [`Lecture video <https://drive.google.com/open?id=0B2v9RmdjXXbUSV9jWmdOTzFoU1U>`__,
          `Scala examples <https://github.com/ksu-cis-301/301f16/blob/master/examples/quantifications.sc>`__,
          `Java examples <https://github.com/ksu-cis-301/301f16/blob/master/examples/Quantifications.java>`__]
-       * `Introduction to Predicate Logic <https://drive.google.com/open?id=0B3opDhlww1AXcGJFelJ2YXFZeUU>`__
+       * `Introduction to Predicate Logic <https://drive.google.com/open?id=0B2v9RmdjXXbUNFZwS29hMWlYYk0>`__
          [Lecture video: `(part a) <https://drive.google.com/open?id=0B2v9RmdjXXbUX1dxcXJjRUoyeWM>`__,
          `(part b) <https://drive.google.com/open?id=0B2v9RmdjXXbUQy1PVmdxdTlKaDQ>`__,
          (part c coming later),
@@ -164,7 +164,7 @@ Schedule
      - * Reading: `The Predicate-Logic Quantifiers <http://logika.sireum.org/dschmidt/08-predicate-logic/index.html>`__ (up to Section 8.2)
        * **Instructor Travel (Department of Homeland Security research meeting)**
    * - 7. T: Feb 28
-     - * `Introduction to Predicate Logic <https://drive.google.com/open?id=0B3opDhlww1AXcGJFelJ2YXFZeUU>`__
+     - * `Introduction to Predicate Logic <https://drive.google.com/open?id=0B2v9RmdjXXbUNFZwS29hMWlYYk0>`__
          [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/predicate>`__,
          `Z3 examples <https://github.com/ksu-cis-301/301f16/tree/master/examples/NatDed-09-Intro-to-Predicate-Logic>`__,
          `FYTD #1 <https://github.com/ksu-cis-301/301f16/blob/master/fytds/natural-deduction/NatDed-09Y-Intro-to-Predicate-Logic-1.logika>`__,
