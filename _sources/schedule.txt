@@ -47,7 +47,7 @@ Schedule
    * - 1. T: Jan 17
      - * `Course Administration <https://drive.google.com/open?id=0B2v9RmdjXXbULWZIT0lybzEwZ28>`__
          [`video <https://drive.google.com/open?id=0B2v9RmdjXXbUSmMycjJfdm45U0k>`__]
-       * `Introduction: Why Bother? <https://drive.google.com/open?id=0B3opDhlww1AXaFA2dDRidEVTZFk>`__
+       * `Introduction: Why Bother? <https://drive.google.com/open?id=0B2v9RmdjXXbUVkJBWW5kRmlRV2c>`__
          [`study guide <https://drive.google.com/file/d/0B3opDhlww1AXZVBFLXNtdXN2WXM/>`__]
      - * Reading: `Introduction: Why Bother? <http://logika.sireum.org/dschmidt/01-introduction/>`__
        * Tool: Install `Logika <http://logika.sireum.org>`__ `CLI <http://logika.sireum.org/doc/01-getting-started/index.html#using-sireum-v3-binary-distribution>`__
@@ -62,7 +62,7 @@ Schedule
      - * Reading: `Circuits and Truth Tables <http://logika.sireum.org/dschmidt/02-circuits-truth-tables/>`__
        * HW 1 Assigned
    * - 2. T: Jan 24
-     - * `Circuits and Truth Tables <https://drive.google.com/file/d/0B3opDhlww1AXVmNEMkNETEVZb1k>`__
+     - * `Circuits and Truth Tables <https://drive.google.com/open?id=0B2v9RmdjXXbUOWVkSlJYdGhFTlk>`__
          [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/truthtable>`__,
          `FYTD #1 solution <https://drive.google.com/open?id=0B2v9RmdjXXbUVUdQWXVMZThSalk>`__,
          `FYTD #2 solution <https://drive.google.com/open?id=0B2v9RmdjXXbUNTltZ3UtSkp2QkU>`__,
