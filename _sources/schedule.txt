@@ -150,8 +150,8 @@ Schedule
    * - 6. U: Feb 23
      - * Quantifications by Example (no slides for this lecture, only code examples)
          [`Lecture video <https://drive.google.com/open?id=0B2v9RmdjXXbUSV9jWmdOTzFoU1U>`__,
-         `Scala examples <https://github.com/ksu-cis-301/301f16/blob/master/examples/quantifications.sc>`__,
-         `Java examples <https://github.com/ksu-cis-301/301f16/blob/master/examples/Quantifications.java>`__]
+         `Scala examples <https://drive.google.com/open?id=0B2v9RmdjXXbUcHhmUXkyNktxaDA>`__,
+         `Java examples <https://drive.google.com/open?id=0B2v9RmdjXXbUUDdGSEQzX25IM00>`__]
        * `Introduction to Predicate Logic <https://drive.google.com/open?id=0B2v9RmdjXXbUNFZwS29hMWlYYk0>`__
          [Lecture video: `(part a) <https://drive.google.com/open?id=0B2v9RmdjXXbUX1dxcXJjRUoyeWM>`__,
          `(part b) <https://drive.google.com/open?id=0B2v9RmdjXXbUQy1PVmdxdTlKaDQ>`__,
