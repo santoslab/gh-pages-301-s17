@@ -198,9 +198,11 @@ Schedule
      -
    * - 10. T: Mar 28
      - * `Programming Logic for Assignment <https://drive.google.com/open?id=0B3opDhlww1AXV3A0ZWlIZUd4aFE>`__
-         [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/programming/manual/>`__]
+         [Lecture video: `(part b) <https://drive.google.com/open?id=0B2v9RmdjXXbUWUQ4TElHMzFtb0U>`__,
+         `examples <https://github.com/sireum/v3-logika-examples/tree/release/src/programming/manual/>`__]
        * `Programming Logic for Conditionals and Loops <https://drive.google.com/open?id=0B3opDhlww1AXSWdMWHFWUFJ6b1E>`__
-         [`conditional #1 <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/manual/conditional-1.logika>`__,
+         [Lecture video: `(conditionals - part a) <https://drive.google.com/open?id=0B2v9RmdjXXbUSW10V3h4VXA3U2c>`__,
+         `conditional #1 <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/manual/conditional-1.logika>`__,
          `conditional #2 <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/manual/conditional-2.logika>`__]
      - * Reading: `Programming Logic for Assignments and Conditionals <http://logika.sireum.org/dschmidt/04-programming-logic/index.html#conditional-commands>`__ (Section 4.2)
        * **Instructor Travel (Research meeting with Draeger in Germany)**
