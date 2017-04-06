@@ -225,17 +225,25 @@ Schedule
          `#4 <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/sequence-4.logika>`__]
      -
    * - 11. U: Apr 6
-     - * Review for Exam 2
+     - * `Programming Logic for Conditionals and Loops <https://drive.google.com/open?id=0B3opDhlww1AXSWdMWHFWUFJ6b1E>`__
+         [`loop invariants recipe <https://drive.google.com/open?id=0B3opDhlww1AXbmRScXNtODlJa2s>`__,
+         `auto <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/auto/>`__,
+         `symexe <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/>`__]
+       * `Sequences <https://drive.google.com/open?id=0B3opDhlww1AXdkRHRnBjd3JMY0U>`__
+         [`#1 <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/sequence-1.logika>`__,
+         `#2 <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/sequence-1.logika>`__,
+         `#3 (manual) <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/manual/sequence-3.logika>`__,
+         `#3 (auto) <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/auto/sequence-3.logika>`__,
+         `#3 (symexe) <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/sequence-3.logika>`__,
+         `#4 <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/sequence-4.logika>`__]
      -
    * - 12. T: Apr 11
-     - * `Exam 2 <https://github.com/ksu-cis-301/301f16/tree/master/exams/exam2>`__
-         [`references <https://drive.google.com/open?id=0B3opDhlww1AXUl9KZE0tR2hWQkk>`__,
-         `study guides <https://drive.google.com/drive/folders/0B3opDhlww1AXM3kyUk1xb3pCd0E>`__]
+     - * Review for Exam 2
      -
    * - 12. U: Apr 13
-     - * `Functions and Procedures <https://drive.google.com/open?id=0B3opDhlww1AXbkVOWFhYUXVRVDg>`__
-         [`examples <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/>`__]
-     - * Reading: `Functions and Procedures <http://logika.sireum.org/dschmidt/05-functions-procedures/index.html>`__
+     - * `Exam 2 <https://github.com/ksu-cis-301/301f16/tree/master/exams/exam2>`__
+         [`references <https://drive.google.com/open?id=0B3opDhlww1AXUl9KZE0tR2hWQkk>`__]
+     -
    * - 13. T: Apr 18
      - * `Functions and Procedures <https://drive.google.com/open?id=0B3opDhlww1AXbkVOWFhYUXVRVDg>`__
          [`examples <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/>`__]
@@ -246,25 +254,26 @@ Schedule
          `java <https://github.com/ksu-cis-301/301f16/blob/master/examples/Bank.java>`__]
      - * Reading: `Functions and Procedures <http://logika.sireum.org/dschmidt/05-functions-procedures/index.html>`__
    * - 14. T: Apr 25
+     - * `Functions and Procedures <https://drive.google.com/open?id=0B3opDhlww1AXbkVOWFhYUXVRVDg>`__
+         [`examples <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/>`__,
+         `java <https://github.com/ksu-cis-301/301f16/blob/master/examples/Bank.java>`__]
+     - * Reading: `Functions and Procedures <http://logika.sireum.org/dschmidt/05-functions-procedures/index.html>`__
+   * - 14. U: Apr 27
      - * `Recursion <https://drive.google.com/open?id=0B3opDhlww1AXUUE5NnpUWHhtTTQ>`__
          [examples: `#1 <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/manual/recursion-1.logika>`__,
          `#2 <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/manual/recursion-2.logika>`__,
          `#3 <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/recursion-3.logika>`__,
          `#4 <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/recursion-4.logika>`__]
      -
-   * - 14. U: Apr 27
+   * - 15. T: May 2
      - * `Termination <https://drive.google.com/open?id=0B3opDhlww1AXU3J0LVl3LUl2OHM>`__
          [`examples <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/>`__,
          Collatz: `Logika <https://github.com/ksu-cis-301/301f16/blob/master/examples/collatz.sc>`__,
          `Java <https://github.com/ksu-cis-301/301f16/blob/master/examples/Collatz.java>`__]
      -
-   * - 15. T: May 2
+   * - 15. U: May 4
      - * Closing Remarks
        * Review for Final Exam
-     -
-   * - 15. U: May 4
-     - * `Programming Logic in Real Life <https://drive.google.com/open?id=0B3opDhlww1AXdHhlVFZ1M2lVaFU>`__
-       * `Evidence-based Trust of SymExe-based Verification <https://k-state.instructure.com/courses/24981/files/folder/Videos?preview=3218115>`__
      -
    * - 16. F: May 12
      - * `Final Exam, Time: 9:40am - 11:30am <https://courses.k-state.edu/spring2017/information/xam.html>`__
